@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "id_producto": 1,
+        "nombre": "Encebollado",
+        "precio": 6.5,
+        "categoria": "Sopas",
+        "stock": 18
+    },
+    {
+        "id": 2,
+        "id_producto": 2,
+        "nombre": "Ceviche de camarón",
+        "precio": 8.75,
+        "categoria": "Mariscos",
+        "stock": 12
+    },
+    {
+        "id": 3,
+        "id_producto": 3,
+        "nombre": "Llapingachos",
+        "precio": 5.5,
+        "categoria": "Platos típicos",
+        "stock": 15
+    },
+    {
+        "id": 4,
+        "id_producto": 4,
+        "nombre": "Seco de pollo",
+        "precio": 7.0,
+        "categoria": "Platos principales",
+        "stock": 14
+    },
+    {
+        "id": 5,
+        "id_producto": 5,
+        "nombre": "Jugo de naranjilla",
+        "precio": 2.25,
+        "categoria": "Bebidas",
+        "stock": 20
+    },
+    {
+        "id": 6,
+        "id_producto": 6,
+        "nombre": "Tres leches",
+        "precio": 3.75,
+        "categoria": "Postres",
+        "stock": 10
+    }
+]

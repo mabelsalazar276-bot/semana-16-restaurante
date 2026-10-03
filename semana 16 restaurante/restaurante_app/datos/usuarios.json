@@ -1,0 +1,22 @@
+[
+	{
+		"id_usuario": 1,
+		"nombre": "Mabela",
+		"apellido": "Salazar",
+		"nombre_usuario": "admin",
+		"contrasena": "admin123",
+		"correo_electronico": "admin@newbeans.com",
+		"fecha_nacimiento": "2000-01-01",
+		"rol": "Administrador"
+	},
+	{
+		"id_usuario": 2,
+		"nombre": "Daniela",
+		"apellido": "Paredes",
+		"nombre_usuario": "mesero",
+		"contrasena": "mesero2026",
+		"correo_electronico": "mesero@newbeans.com",
+		"fecha_nacimiento": "2001-05-15",
+		"rol": "Empleado"
+	}
+]

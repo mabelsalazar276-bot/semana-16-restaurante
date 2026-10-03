@@ -1,0 +1,22 @@
+[
+    {
+        "usuario_id": 3,
+        "producto_id": 6,
+        "fecha": "2026-09-26T22:19:35"
+    },
+    {
+        "usuario_id": 2,
+        "producto_id": 2,
+        "fecha": "2026-09-26T23:03:14"
+    },
+    {
+        "usuario_id": 2,
+        "producto_id": 4,
+        "fecha": "2026-10-03T14:56:26"
+    },
+    {
+        "usuario_id": 2,
+        "producto_id": 3,
+        "fecha": "2026-10-03T15:13:43"
+    }
+]
